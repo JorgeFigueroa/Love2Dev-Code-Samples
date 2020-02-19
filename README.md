@@ -1,4 +1,3 @@
-# Love2Dev-Code-Samples
 
 # Terminal
 ```
@@ -7,4 +6,4 @@ npm install
 npm start
 ```
 
-A repository of code samples used in articles on [Love2Dev](https://love2dev.com/blog/)
+
