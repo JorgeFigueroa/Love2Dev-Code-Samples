@@ -1,6 +1,6 @@
 # Love2Dev-Code-Samples
 
-###Terminal
+# Terminal
 ```
 npm install http-server -g
 npm install
