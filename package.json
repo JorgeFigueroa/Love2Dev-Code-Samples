@@ -12,5 +12,8 @@
     "devDependencies": {
         "faker": "*",
         "popper.js": "*"
+    },
+    "dependencies": {
+        "http-server": "^0.12.1"
     }
 }
